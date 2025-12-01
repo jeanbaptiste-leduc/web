@@ -30,5 +30,12 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    min-height: 100vh;
+    min-height: 40vh;
+}
+
+li {
+    font-size: 20px;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+    color: #de7471
 }
