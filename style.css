@@ -5,9 +5,9 @@ h1 {
 }
 
 h2 {
-    font-size: 30px;
-    text-align: center;
-    color: #070f26
+    font-size: 25px;
+    text-align: left;
+    color: #de7471
 }
 
 p {
@@ -25,7 +25,7 @@ a {
 }
 
 body {
-    background-color: #070f26;
+    background-color: #ffffff;
     background-image: url("vignette_simplon.png");
     background-repeat: no-repeat;
     background-size: contain;
